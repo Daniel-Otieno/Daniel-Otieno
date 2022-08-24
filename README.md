@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniel-otieno" alt="daniel-otieno" /></a> </p>
 
-- 🔭 I’m currently working on **A Delivery Android Application**
+- 🔭 I’m currently working on **a delivery Android Application**
 
 - 🌱 I’m currently learning **Python**
 

@@ -5,19 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniel-otieno" alt="daniel-otieno" /></a> </p>
 
-- 🔭 I’m currently working on **a delivery Android Application**
-
 - 🌱 I’m currently learning **Python**
-
-- 👯 I’m looking to collaborate on **YouTube**
 
 - 🤝 I’m looking for help with **VelocityX Documentation**
 
 - 💬 Ask me about **Adobe Illustrator**
 
 - 📫 How to reach me **oderodanielotieno@gmail.com**
-
-- ⚡ Fun fact **I am not a Hacker!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

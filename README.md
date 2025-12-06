@@ -86,7 +86,7 @@
 <div align="center">
   
   [![Email](https://img.shields.io/badge/%F0%9F%93%A7_Email-oderodanielotieno@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oderodanielotieno@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-Coming_Soon-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+  [![Portfolio](https://shadowwork-technologies.web.app/)](#)
   [![LinkedIn](https://img.shields.io/badge/%F0%9F%92%BC_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
   [![Behance](https://img.shields.io/badge/%F0%9F%8E%A8_Behance-Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/yourprofile)
   

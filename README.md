@@ -1,5 +1,5 @@
-<h1 align="center">🎨 Daniel Otieno | Frontend Developer & Digital Artist</h1>
-<h3 align="center">🔥 Crafting beautiful interfaces with code & design | Nairobi, Kenya</h3>
+<h1 align="center">Daniel Otieno | Frontend Developer & Digital Artist</h1>
+<h3 align="center">Crafting beautiful interfaces with code & design | Nairobi, Kenya</h3>
 
 <div align="center">
   
@@ -19,7 +19,7 @@
 
 <br>
 
-## 🚀 Tech Stack & Expertise
+## Tech Stack & Expertise
 
 ### **Frontend Development**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -40,7 +40,7 @@
 
 <br>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   
@@ -59,7 +59,7 @@
 
 <br>
 
-## 🎨 Design + Development Philosophy
+##Design + Development Philosophy
 
 <br>
 
@@ -78,15 +78,15 @@
 
 ## 🔥 What I'm Building
 
-- 🚀 **React + Firebase** full-stack applications
-- 🎨 **Custom UI component libraries**
-- 📱 **Responsive web applications**
-- 🖼️ **Digital artwork & graphics** for web projects
-- 🔗 **Interactive prototypes** from design to code
+-  **React + Firebase** full-stack applications
+-  **Custom UI component libraries**
+-  **Responsive web applications**
+-  **Digital artwork & graphics** for web projects
+-  **Interactive prototypes** from design to code
 
 <br>
 
-## 📫 Connect With Me
+##Connect With Me
 
 <div align="center">
   
@@ -99,7 +99,7 @@
 
 <br>
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   
@@ -109,7 +109,7 @@
 
 <br>
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
   
@@ -121,7 +121,7 @@
 
 <div align="center">
   
-  ### 🌟 "Code is poetry, design is the canvas"
+  ### "Code is poetry, design is the canvas"
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" />
   

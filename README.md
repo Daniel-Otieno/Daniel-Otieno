@@ -103,7 +103,7 @@
 
 <br>
 
-## Contribution Activity
+## My Philosophy
 
 <br>
 

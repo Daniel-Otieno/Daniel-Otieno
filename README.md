@@ -106,12 +106,6 @@
 
 ## Contribution Activity
 
-<div align="center">
-  
-  ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=daniel-otieno&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=61DAFB&line=FF6B6B&point=FFFFFF&area_color=61DAFB)
-  
-</div>
-
 <br>
 
 <div align="center">
